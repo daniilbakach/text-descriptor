@@ -1,0 +1,17 @@
+textarea {
+    resize: none;
+    margin-bottom: 10px;
+}
+
+.container {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.form-floating {
+    margin-bottom: 15px;
+}
+
+.disabled {
+    display: none;
+}
